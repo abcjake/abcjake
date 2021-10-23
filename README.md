@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jake
 - 👀 I am interested in Data Analytics
-- 🌱 Here I have some of the finished and current projects as well as some assignments from University. 
+- 🌱 Here I have some of my finished and current projects as well as some assignments from University. 
 
 - 📫 you can find me at my [LinkedIn](https://www.linkedin.com/in/jacob-meeker-a56974186/) profile!
 - Thanks for stopping by :)
